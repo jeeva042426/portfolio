@@ -34,7 +34,7 @@ window.opentab = opentab;
 // ----------------------------------------------------------------------
 
 // CONFIGURATION VARIABLES (Your specific IDs)
-const PUBLIC_KEY = 'QA9F8BgB77f7qzd1e'; 
+const PUBLIC_KEY = 'YW_EPq3g1m0ZpJxGz'; 
 const SERVICE_ID = 'service_q2vcr79'; 
 const TEMPLATE_ID = 'template_j9veom8'; 
 const FORM_ID = 'contact-form'; // Must match the ID in index.html
